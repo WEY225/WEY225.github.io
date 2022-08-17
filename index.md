@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+矢量数据的空间分析
+基于空间位置分析的总称
 
-You can use the [editor on GitHub](https://github.com/WEY225/WEY225.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+缓冲区（Buffer）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+图形缓冲（GraphicBuffer）:10.4之后
 
-### Markdown
+3D缓冲区（Buffer3D）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+相交（Intersect）
 
-```markdown
-Syntax highlighted code block
+擦除（Erase）
 
-# Header 1
-## Header 2
-### Header 3
+标识（Identity）
 
-- Bulleted
-- List
+更新（Update）
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WEY225/WEY225.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[链接](https://gitee.com/WEY_225/note/tree/WEY/Arcgis%E4%BB%8E%E5%9F%BA%E7%A1%80%E5%88%B0%E5%AE%9E%E6%88%982022%E5%B9%B48%E6%9C%88%E6%9A%91%E5%81%87/chp12%20%E7%9F%A2%E9%87%8F%E6%95%B0%E6%8D%AE%E7%9A%84%E7%A9%BA%E9%97%B4%E5%88%86%E6%9E%90)
