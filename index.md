@@ -71,4 +71,4 @@
 
 四六级真题
 
-[网站直达](zhenti.burningvocabulary.com)
+([zhenti.burningvocabulary.com](https://zhenti.burningvocabulary.com/))
