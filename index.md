@@ -84,4 +84,4 @@
 
 资源整理不易，谢谢捐赠！
 
-![image-20220828155657679](https://gitee.com/WEY_225/images/raw/WEY/img/image-20220828155657679.png)
+[捐赠链接](https://gitee.com/WEY_225/images/raw/WEY/img/image-20220828155657679.png)
