@@ -8,7 +8,7 @@
 
 四六级真题
 
-[zhenti.burningvocabulary.com](https://zhenti.burningvocabulary.com/))
+[zhenti.burningvocabulary.com](https://zhenti.burningvocabulary.com/)
 
 制作PPT
 
