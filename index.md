@@ -1,18 +1,6 @@
 # 你好，世界
 # 你好，Github
 
-## 2022/8
-遥感
+- 免费资源[点我](https://wey225.github.io/pay/)
 
-[envi5.3sp1软件、教程、参考书](https://www.123pan.com/s/Rmp8Vv-EaFjd)
-
-四六级真题
-
-[zhenti.burningvocabulary.com](https://zhenti.burningvocabulary.com/)
-
-制作PPT
-
-[学习制作PPT](https://www.aliyundrive.com/s/3HM11STk49K)
-
-更多精彩待续...
-
+- 付费资源[点我](https://wey225.github.io/free/)
