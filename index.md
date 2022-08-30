@@ -1,5 +1,5 @@
 # 欢迎来到导航页
 
-# - 付费资源[点我](https://wey225.github.io/pay/)
+# 请在下方链接中下载资源
 
-# - 免费资源[点我](https://wey225.github.io/free/)
+# - 资源下载[点我](https://wey225.github.io/free/)
